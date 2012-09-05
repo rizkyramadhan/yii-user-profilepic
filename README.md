@@ -13,7 +13,7 @@ You should install following modules/extention before installing this widget.
 Installation
 ------------
 
-1. Install [Yii-User] and [EPhpThumb]
+1. Install [Yii-User] (http://www.yiiframework.com/extension/yii-user) and [EPhpThumb] (http://www.yiiframework.com/extension/ephpthumb/)
 2. Extract widget to `modules/user/components`. Your directory should look like this:
 <pre>
    ~ components
@@ -47,5 +47,4 @@ Installation
 5. Login using admin account, and Create Profile Field
 6. Select `VARCHAR` type, and choose Profile Picture Widget.
 7. Click on Widget Parameters, then save.
-
-Have fun.
+8. Have fun.
