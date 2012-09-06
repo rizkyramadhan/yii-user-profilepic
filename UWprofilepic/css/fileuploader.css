@@ -42,7 +42,7 @@
 #Profile_picture_js .qq-upload-list { margin-top:1px; }
 #Profile_picture_js .qq-upload-list li { padding-left:5px; }
 #Profile_picture_container .jcrop-container {
-	margin-top: -14px ;
+	margin-top: 0px ;
 	float:left ;
 	display:none;
 }
