@@ -53,7 +53,7 @@ class UWprofilepic {
 		
 		if ($value) {
 			$old_file = $model->getAttribute($field_varname);
-			$file_name = self::addSlash($this->params->rawPath) .$value->name;
+			$file_name = self::addSlash($this->params['rawPath']) .$value->name; //fix!!
 			if (file_exists($file_name)) {
 				$file_name = str_replace('.'.$value->extensionName,'-'.time().'.'.$value->extensionName,$file_name);
 			}
