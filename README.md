@@ -6,7 +6,7 @@ This is Yii-User Profile Picture Widget. It will add new Widget option in Yii-Us
 Requirements
 ------------
 
-You should install following modules/extention before installing this widget.
+You should install following module and extension before installing this widget.
 - Yii-User (obviously)
 - EPhpThumb
 
