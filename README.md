@@ -1,3 +1,7 @@
+WARNING!
+THIS PROJECT IS NOT MAINTAINED ANYMORE
+USE WITH YOUR OWN RISK
+
 yii-user-profilepic
 ===================
 
